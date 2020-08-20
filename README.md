@@ -10,7 +10,7 @@
   - *Set deadline for a task and get notification when it is time*
 
 
-##### You can also use [this](https://github.com/alexzhyshko/PlannerSpring) API to build your own UI on Android, iOS or any other platform
+##### You can also use [this](https://github.com/alexzhyshko/PlannerSpring) API to build your own UI on Android, iOS or any other platform(currently unavailable)
 
 
 ## Tech
