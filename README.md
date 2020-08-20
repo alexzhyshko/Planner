@@ -13,9 +13,6 @@
 ##### You can also use [this](https://github.com/alexzhyshko/PlannerSpring) API to build your own UI on Android, iOS or any other platform
 
 
-#
-#
-#
 ## Tech
 
 ##### Planner uses a number of popular technologies to work properly:
@@ -28,12 +25,10 @@
 * **Angular** - platform for building mobile and desktop web applications
 * **Bootstrap 4** - free front-end framework for faster and easier web development
 
-#
-#
-#
+
 
 ### And of course Planner is open source with a public repositories on GitHub.
 
  ##### Front-end [link](https://github.com/alexzhyshko/PlannerFront)
  ##### Back-end [link](https://github.com/alexzhyshko/PlannerSpring)
-#
+
