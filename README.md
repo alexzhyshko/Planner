@@ -1,5 +1,6 @@
 # Planner
-
+ ##### Front-end [link](https://github.com/alexzhyshko/PlannerFront)
+ ##### Back-end [link](https://github.com/alexzhyshko/PlannerSpring)
 ##### Planner is a simplistic dashboard service, which provides useful planning features.
 
   - *Add, join, delete or leave a dashboard*
@@ -33,6 +34,5 @@
 
 ### And of course Planner is open source with a public repositories on GitHub.
 
- ##### Front-end [link](https://github.com/alexzhyshko/PlannerFront)
- ##### Back-end [link](https://github.com/alexzhyshko/PlannerSpring)
+
 
