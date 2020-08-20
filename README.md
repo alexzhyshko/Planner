@@ -24,6 +24,7 @@
 * **MySQL** - open-source relational database management system
 * **Angular** - platform for building mobile and desktop web applications
 * **Bootstrap 4** - free front-end framework for faster and easier web development
+* **Swagger UI** - instrument for easy and fast REST documenting
 
 
 
