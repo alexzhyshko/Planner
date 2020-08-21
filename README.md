@@ -20,7 +20,7 @@
 
 * **Java** - widespread programming language mainly used for enterprise projects
 * **Spring Boot, Data, Security** - modern and useful open source Java-based framework
-* **Hibernate** - enables developers to access persistance data easily
+* **Hibernate** - enables developers to access persistence data easily
 * **Maven** - popular build automation tool
 * **MySQL** - open-source relational database management system
 * **Angular** - platform for building mobile and desktop web applications
