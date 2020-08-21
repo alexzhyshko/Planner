@@ -32,7 +32,7 @@
 * **Android** - apart from having web version, I plan implementing the same idea using Android platform
 * **Desktop** - in addition, it would be great to have a desktop PC(Windows) version of such app
 
-### And of course Planner is open source with a public repositories on GitHub.
+### And of course Planner is open source with public repositories on GitHub.
 
 
 
