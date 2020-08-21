@@ -19,7 +19,7 @@
 ##### Planner uses a number of popular technologies to work properly:
 
 * **Java** - widespread programming language mainly used for enterprise projects
-* **Spring Boot, Security** - modern and useful open source Java-based framework
+* **Spring Boot, Data, Security** - modern and useful open source Java-based framework
 * **Hibernate** - enables developers to access persistance data easily
 * **Maven** - popular build automation tool
 * **MySQL** - open-source relational database management system
